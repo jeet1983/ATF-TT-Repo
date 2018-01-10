@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Get Field Value from a table using GlideRecord</description>
+        <display_name>ATFGlideRecord.GetSingleRecordFieldValue</display_name>
+        <inputs/>
+        <order>1</order>
+        <step_config display_value="ATFGlideRecord.GetSingleRecordFieldValue">170b8a6adb2ecb00baea5e77dc961970</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>Neha.Pandey</sys_created_by>
+        <sys_created_on>2018-01-10 05:42:47</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>0dbd63fddbe30f441e5c5e77dc9619ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ATFGlideRecord.GetSingleRecordFieldValue</sys_name>
+        <sys_package display_value="ATF Git Config" source="x_snc_atf_git_conf">3c492bfddb67cb44197b5e77dc961980</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ATF Git Config">3c492bfddb67cb44197b5e77dc961980</sys_scope>
+        <sys_update_name>sys_atf_step_0dbd63fddbe30f441e5c5e77dc9619ac</sys_update_name>
+        <sys_updated_by>Neha.Pandey</sys_updated_by>
+        <sys_updated_on>2018-01-10 05:42:47</sys_updated_on>
+        <table/>
+        <test display_value="My New Test">509dafbddbe30f441e5c5e77dc9619eb</test>
+        <timeout/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=0dbd63fddbe30f441e5c5e77dc9619ac"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>0dbd63fddbe30f441e5c5e77dc9619ac</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Neha.Pandey</sys_created_by>
+        <sys_created_on>2018-01-10 05:42:48</sys_created_on>
+        <sys_id>33fdeb7ddbe30f441e5c5e77dc96193b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Neha.Pandey</sys_updated_by>
+        <sys_updated_on>2018-01-10 05:42:48</sys_updated_on>
+        <value>state</value>
+        <variable display_value="">0a9b0aaadb2ecb00baea5e77dc961953</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>0dbd63fddbe30f441e5c5e77dc9619ac</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Neha.Pandey</sys_created_by>
+        <sys_created_on>2018-01-10 05:42:48</sys_created_on>
+        <sys_id>7bfdeb7ddbe30f441e5c5e77dc961939</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Neha.Pandey</sys_updated_by>
+        <sys_updated_on>2018-01-10 05:42:48</sys_updated_on>
+        <value>6816a1f1db670f84516ffbfeaf9619ba</value>
+        <variable display_value="">a1a6ced8db4f0b40fd35f23daf961994</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>0dbd63fddbe30f441e5c5e77dc9619ac</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Neha.Pandey</sys_created_by>
+        <sys_created_on>2018-01-10 05:42:48</sys_created_on>
+        <sys_id>7ffdeb7ddbe30f441e5c5e77dc96193a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Neha.Pandey</sys_updated_by>
+        <sys_updated_on>2018-01-10 05:42:48</sys_updated_on>
+        <value>incident</value>
+        <variable display_value="">f61c82eadb2ecb00baea5e77dc961936</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>0dbd63fddbe30f441e5c5e77dc9619ac</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Neha.Pandey</sys_created_by>
+        <sys_created_on>2018-01-10 05:42:48</sys_created_on>
+        <sys_id>bbfdeb7ddbe30f441e5c5e77dc96193a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Neha.Pandey</sys_updated_by>
+        <sys_updated_on>2018-01-10 05:42:48</sys_updated_on>
+        <value>0</value>
+        <variable display_value="">35cdc62edb2ecb00baea5e77dc9619ff</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>0dbd63fddbe30f441e5c5e77dc9619ac</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Neha.Pandey</sys_created_by>
+        <sys_created_on>2018-01-10 05:42:48</sys_created_on>
+        <sys_id>f7fdeb7ddbe30f441e5c5e77dc96193a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Neha.Pandey</sys_updated_by>
+        <sys_updated_on>2018-01-10 05:42:48</sys_updated_on>
+        <value>sys_id</value>
+        <variable display_value="">feef8e6edb2ecb00baea5e77dc9619f2</variable>
+    </sys_variable_value>
+</record_update>
